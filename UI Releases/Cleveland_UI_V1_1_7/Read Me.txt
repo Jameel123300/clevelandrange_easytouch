@@ -1,0 +1,12 @@
+-------------------------------------------------
+Cleveland UI T1 skillet. Version 1.1.7 Creating date 2024-04-18
+-------------------------------------------------
+
+Steps to install package:
+1- On USB stick create folder named welbilt
+2- Inside the welbilt folder create folder named package
+3- Put the released package for example cleveland-update-1.tar inside the package folder.
+4- Insert the USB stick on the USB port for the UI.
+5- After 3 to 4 minutes, a screen will appear indicating a restart. Then user should restart the UI.
+
+Note: make sure USB stick in FAT32 formatted. 
